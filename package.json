@@ -1,0 +1,9 @@
+{
+  "name": "zn30-central-cliente-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backend (Vercel Functions) da Central do Cliente ZN30 - pedidos, pagamento (Mercado Pago) e liberacao de arquivo.",
+  "dependencies": {
+    "googleapis": "^140.0.1"
+  }
+}
